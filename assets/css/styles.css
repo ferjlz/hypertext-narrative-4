@@ -4,6 +4,8 @@
 * {
 	font-family: Arial;
 }
+
+
   body {
             margin: 0;
             padding: 0;
@@ -25,7 +27,19 @@ h1 {
 			left: 56%;
 			color: #fff;
 			text-align: center;
-			transform: skewY(7deg);
+			transform: skewY(-10deg);
+		}
+
+h2 {
+			position: absolute;
+			top: 35%;
+			font-size: 30px;
+			  font-family: "Instrument Serif", serif;
+			font-weight: none;
+			left: 56%;
+			color: #fff;
+			text-align: center;
+			transform: skewY(-10deg);
 		}
 
 a {
@@ -37,7 +51,7 @@ a {
 			left: 50.5%;
 			color: #fff;
 			text-align: center;
-			transform: skewY(7deg);
+			transform: skewY(-10deg);
 }
 
 .button-menu {
@@ -88,7 +102,7 @@ a {
 		}
 		
 
-.menu-button:hover {
+.return-button:hover {
 			background-color: #080808;
 			opacity: 1;
 		}
@@ -117,3 +131,84 @@ a {
 			background-color: #080808;
 			opacity: 1;
 		}
+	
+.synopsis {
+		background-color: #6e6d6d;
+			color: #fff;
+			border: none;
+			padding: 8px 125px;
+			cursor: pointer;
+			display: flex;
+			align-items: center;
+			font-size: 50px;
+ 			font-family: "Instrument Serif", serif;
+			opacity: 0.85;
+			transform: skewX(-20deg);
+			transform: skewY(-10deg);
+			position: absolute;
+			gap: 10px;
+			top: 37%;
+			left: 31%;
+}
+
+.releasedate {
+		background-color: #6e6d6d;
+			color: #fff;
+			border: none;
+			padding: 8px 125px;
+			cursor: pointer;
+			display: flex;
+			align-items: center;
+			font-size: 50px;
+ 			font-family: "Instrument Serif", serif;
+			opacity: 0.85;
+			transform: skewX(-20deg);
+			transform: skewY(-10deg);
+			position: absolute;
+			gap: 10px;
+			top: 52%;
+			left: 31%;
+}
+
+.reason {
+		background-color: #6e6d6d;
+			color: #fff;
+			border: none;
+			padding: 8px 125px;
+			cursor: pointer;
+			display: flex;
+			align-items: center;
+			font-size: 50px;
+ 			font-family: "Instrument Serif", serif;
+			opacity: 0.85;
+			transform: skewX(-20deg);
+			transform: skewY(-10deg);
+			position: absolute;
+			gap: 10px;
+			top: 68%;
+			left: 31%;
+}
+
+.blackmemory {
+		background-color: #6e6d6d;
+			color: #fff;
+			border: none;
+			padding: 40px 230px;
+			cursor: pointer;
+			display: flex;
+			align-items: center;
+			font-size: 170px;
+			text-align: left;
+ 			font-family: "Instrument Serif", serif;
+			opacity: 0.85;
+			transform: skewX(15deg);
+			transform: skewY(-2deg);
+			position: absolute;
+			gap: 10px;
+			top: 18%;
+			left: 28.5%;
+}
+
+button img {
+  vertical-align: middle;
+  margin-right: 5px; 
