@@ -21,41 +21,54 @@
 h1 {
 			position: absolute;
 			top: 25%;
-			font-size: 45px;
-			  font-family: "Instrument Serif", serif;
+			font-size: 55px;
+			font-family: "Instrument Serif", serif;
 			font-weight: none;
 			left: 56%;
 			color: #fff;
-			text-align: center;
+			text-align: left;
 			transform: skewY(-10deg);
 			gap: 10px;
-			top: 72%;
-			left: 33%;
+			top: 62.5%;
+			left: 31%;
 		}
 
 h2 {
 			position: absolute;
-			top: 35%;
-			font-size: 40px;
-			  font-family: "Instrument Serif", serif;
-			font-weight: none;
+			font-size: 55px;
+			font-family: "Instrument Serif", serif;
+			font-weight: bold;
 			left: 56%;
-			color: #fff;
-			text-align: center;
+			color: #000000;
+			text-align: left;
 			transform: skewY(-10deg);
 			gap: 10px;
-			top: 42%;
-			left: 33%;
+			top: 40%;
+			left: 31%;
 		}
 
+h3 {
+			position: absolute;
+			font-size: 55px;
+			font-family: "Instrument Serif", serif;
+			font-weight: bold;
+			left: 56%;
+			color: #fff;
+			text-align: left;
+			transform: skewY(-10deg);
+			gap: 10px;
+			top: 38%;
+			left: 31%;
+		}
 a {
 			position: absolute;
 			top: 28.5%;
-			  font-family: "Instrument Serif", serif;
+			font-family: "Instrument Serif", serif;
 			font-size: 90px;
 			font-weight: none;
 			left: 50.5%;
 			color: #fff;
+			-webkit-text-stroke: 1.5px #4d4c4c;
 			text-align: center;
 			transform: skewY(-10deg);
 			gap: 10px;
@@ -228,7 +241,7 @@ b {
 			transform: skewY(-10deg);
 			position: absolute;
 			gap: 10px;
-			top: 68%;
+			top: 60%;
 			left: 31%;
 }
 
@@ -250,4 +263,121 @@ b {
 			gap: 10px;
 			top: 18%;
 			left: 28.5%;
+}
+
+h5 {
+		background-color: #6e6d6d;
+			color: #fff;
+			border: none;
+			padding: 8px 125px;
+			cursor: pointer;
+			display: flex;
+			align-items: center;
+			font-size: 50px;
+ 			font-family: "Instrument Serif", serif;
+			opacity: 0.85;
+			transform: skewX(-20deg);
+			transform: skewY(-10deg);
+			position: absolute;
+			gap: 10px;
+			top: 54%;
+			left: 56%;
+}
+
+h6 {
+		background-color: #6e6d6d;
+			color: #fff;
+			border: none;
+			padding: 8px 125px;
+			cursor: pointer;
+			display: flex;
+			align-items: center;
+			font-size: 50px;
+ 			font-family: "Instrument Serif", serif;
+			opacity: 0.85;
+			transform: skewX(-20deg);
+			transform: skewY(-10deg);
+			position: absolute;
+			gap: 10px;
+			top: 44%;
+			left: 53%;
+}
+
+h4 {
+	background-color: #6e6d6d;
+			color: #fff;
+			border: none;
+			padding: 8px 125px;
+			cursor: pointer;
+			display: flex;
+			align-items: center;
+			font-size: 50px;
+ 			font-family: "Instrument Serif", serif;
+			opacity: 0.85;
+			transform: skewX(-20deg);
+			transform: skewY(-10deg);
+			position: absolute;
+			gap: 10px;
+			top: 31%;
+			left: 55%;
+}
+
+sy {
+	position: absolute;
+			font-size: 55px;
+			font-family: "Instrument Serif", serif;
+			font-weight: bold;
+			left: 56%;
+			color: #fff;
+			text-align: right;
+			transform: skewY(-10deg);
+			gap: 10px;
+			top: 40%;
+			left: 51%;
+}
+
+rl {
+	position: absolute;
+			top: 25%;
+			font-size: 55px;
+			font-family: "Instrument Serif", serif;
+			font-weight: bold;
+			left: 56%;
+			color: #fff;
+			text-align: right;
+			transform: skewY(-10deg);
+			gap: 10px;
+			top: 62.5%;
+			left: 55%;
+}
+
+dt {
+	position: absolute;
+			top: 28.5%;
+			font-family: "Instrument Serif", serif;
+			font-size: 90px;
+			font-weight: none;
+			left: 50.5%;
+			color: #fff;
+			-webkit-text-stroke: 1.5px #4d4c4c;
+			text-align: center;
+			transform: skewY(-10deg);
+			gap: 10px;
+			top: 53%;
+			left: 40%;
+}
+
+rrs {
+	position: absolute;
+			top: 25%;
+			font-size: 55px;
+			font-family: "Instrument Serif", serif;
+			font-weight: bold;
+			left: 56%;
+			color: #fff;
+			text-align: left;
+			transform: skewY(-10deg);
+			gap: 10px;
+			top: 61%;
+			left: 31%;
 }
