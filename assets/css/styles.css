@@ -73,7 +73,7 @@ a {
 			transform: skewY(-10deg);
 			gap: 10px;
 			top: 47.5%;
-			left: 48%;
+			left: 45%;
 }
 
 p {
@@ -333,7 +333,7 @@ sy {
 			transform: skewY(-10deg);
 			gap: 10px;
 			top: 40%;
-			left: 51%;
+			left: 52%;
 }
 
 rl {
@@ -363,8 +363,8 @@ dt {
 			text-align: center;
 			transform: skewY(-10deg);
 			gap: 10px;
-			top: 53%;
-			left: 40%;
+			top: 52.5%;
+			left: 43%;
 }
 
 rrs {
@@ -380,4 +380,67 @@ rrs {
 			gap: 10px;
 			top: 61%;
 			left: 31%;
+}
+
+rrsn {
+	position: absolute;
+			top: 25%;
+			font-size: 55px;
+			font-family: "Instrument Serif", serif;
+			font-weight: bold;
+			left: 56%;
+			color: #fff;
+			background-color: #000000;
+			opacity: 0.85;
+			text-align: left;
+			transform: skewY(-10deg);
+			gap: 10px;
+			top: 61%;
+			left: 31%;
+}
+
+rrsnn {
+	position: absolute;
+			top: 25%;
+			font-size: 55px;
+			font-family: "Instrument Serif", serif;
+			font-weight: bold;
+			left: 56%;
+			color: #fff;
+			background-color: #000000;
+			opacity: 0.85;
+			text-align: left;
+			transform: skewY(-10deg);
+			gap: 10px;
+			top: 42%;
+			left: 31%;
+}
+
+syn {
+	position: absolute;
+			font-size: 55px;
+			font-family: "Instrument Serif", serif;
+			font-weight: bold;
+			left: 56%;
+			color: #fff;
+			text-align: right;
+			transform: skewY(-10deg);
+			gap: 10px;
+			top: 38.5%;
+			left: 54%;
+}
+
+rsn {
+	position: absolute;
+			top: 25%;
+			font-size: 55px;
+			font-family: "Instrument Serif", serif;
+			font-weight: bold;
+			left: 56%;
+			color: #fff;
+			text-align: right;
+			transform: skewY(-10deg);
+			gap: 10px;
+			top: 63%;
+			left: 53.5%;
 }
