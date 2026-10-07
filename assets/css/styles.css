@@ -399,6 +399,21 @@ rrsn {
 			left: 31%;
 }
 
+rrsnd {
+	position: absolute;
+			top: 25%;
+			font-size: 55px;
+			font-family: "Instrument Serif", serif;
+			font-weight: bold;
+			left: 56%;
+			color: #fff;
+			text-align: left;
+			transform: skewY(-10deg);
+			gap: 10px;
+			top: 64%;
+			left: 31%;
+}
+
 rrsnn {
 	position: absolute;
 			top: 25%;
